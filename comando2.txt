@@ -1,0 +1,1000 @@
+   74  ping 192.168.1.128
+   75  ping 192.168.10.127
+   76  ping 192.168.10.12
+   77  ping 192.168.1.12
+   78  clear
+   79  ifconfig
+   80  apt install net-tools
+   81  clear
+   82  ip addr
+   83  ping 172.17.0.1
+   84  ping 172.17.0.2
+   85  ping 172.17.0.3
+   86  clear
+   87  ip addr
+   88  clear
+   89  ip addr (ip a)
+   90  clear
+   91  ip addr
+   92  clear
+   93  nmcli -p
+   94  ip route
+   95  169.254.0.10
+   96  ping 169.254.0.10
+   97  clear
+   98  cd Área\ de\ Trabalho/
+   99  gcc -omp toto.c 
+  100  ./toto 
+  101  gcc -omp toto.c 
+  102  ./toto 
+  103  clear
+  104  gcc -omp toto.c 
+  105  clear
+  106  gcc -omp toto.c 
+  107  clear
+  108  gcc -omp toto.c 
+  109  ./toto 
+  110  gcc -omp toto.c 
+  111  ./toto 
+  112  clear
+  113  gcc -omp toto.c 
+  114  ./toto 
+  115  clear
+  116  gcc -omp toto.c 
+  117  ./toto.c
+  118  ./toto
+  119  gcc -omp toto.c -o
+  120  gcc -omp toto.c -o executable
+  121  ./toto
+  122  clear
+  123  gcc -omp teste.c 
+  124  ./teste
+  125  clear
+  126  gcc -omp teste.c 
+  127  gcc -omp teste.c -lpthread
+  128  ./teste
+  129  dir
+  130  ./mp
+  131  clear
+  132  gcc -omp teste.c -lpthread
+  133  ./mp
+  134  gcc -omp teste.c -lpthread
+  135  ./mp
+  136  gcc -fopenmp teste.c -lpthread
+  137  clear
+  138  gcc -fopenmp teste.c -lpthread
+  139  ./mp
+  140  cd ippd
+  141  cd IPPD/
+  142  ls
+  143  gcc -fopenmp teste.c -lpthread
+  144  ls
+  145  ./a
+  146  ./a.out
+  147  gcc -fopenmp teste.c -lpthread
+  148  ./a.out
+  149  gcc -fopenmp teste.c -lpthread
+  150  ./a.out
+  151  clear
+  152  gcc -fopenmp teste.c -lpthread
+  153  ./a.out
+  154  gcc -fopenmp teste.c -lpthread
+  155  ./a.out
+  156  gcc -fopenmp teste.c -lpthread
+  157  ./a.out
+  158  gcc -fopenmp teste.c -lpthread
+  159  ./a.out
+  160  gcc -fopenmp teste.c -lpthread
+  161  clear
+  162  ./a.out
+  163  clear
+  164  gcc -fopenmp teste.c -lpthread
+  165  ./a.out
+  166  clear
+  167  ssh 10.15.114.137 open firefox
+  168  cd "/home/aluno/Documentos/aulapratica3"
+  169  ./"teste" 
+  170  cd "/home/aluno/Documentos/aulapratica3"
+  171  ./"teste" 
+  172  cd "/home/aluno/Documentos/aulapratica3"
+  173  ./"teste" 
+  174  cd "/home/aluno/Documentos/aulapratica3"
+  175  ./"teste" 
+  176  cd "/home/aluno/Documentos/aulapratica3"
+  177  ./"teste" 
+  178  cd "/home/aluno/Documentos/aulapratica3"
+  179  ./"teste" 
+  180  cd "/home/aluno/Documentos/aulapratica3"
+  181  ./"teste" 
+  182  cd "/home/aluno/Documentos/aulapratica3"
+  183  ./"teste" 
+  184  cd "/home/aluno/Documentos/aulapratica3"
+  185  ./"teste" 
+  186  cd "/home/aluno/Documentos/aulapratica3"
+  187  ./"teste" 
+  188  cd "/home/aluno/Documentos/aulapratica3"
+  189  ./"teste" 
+  190  cd "/home/aluno/Documentos/aulapratica3"
+  191  ./"teste" 
+  192  cd "/home/aluno/Documentos/aulapratica3"
+  193  ./"teste" 
+  194  cd "/home/aluno/Documentos/aulapratica3"
+  195  ./"teste" 
+  196  cd "/home/aluno/Documentos/aulapratica3"
+  197  ./"teste" 
+  198  cd "/home/aluno/Documentos/aulapratica3"
+  199  ./"teste" 
+  200  cd "/home/aluno/Documentos/aulapratica3"
+  201  ./"teste" 
+  202  cd "/home/aluno/Documentos/aulapratica3"
+  203  ./"teste" 
+  204  cd "/home/aluno/Documentos/aulapratica3"
+  205  ./"teste" 
+  206  code .
+  207  gcc
+  208  cd doucmentos
+  209  dc Documentos/
+  210  cd Documentos/
+  211  gcc --version
+  212  gcc ordem.c -o ordem -g
+  213  ./ordem
+  214  gdb ordem
+  215  gcc ordem.c -o ordem -g
+  216  gdb ordem
+  217  ./ordem
+  218  gcc ordem.c -o ordem -g
+  219  ./ordem
+  220  gcc ordem.c -o ordem -g
+  221  ./ordem
+  222  gcc ordem.c -o ordem -g
+  223  ./ordem
+  224  gcc ordem.c -o ordem -g
+  225  ./ordem
+  226  gcc ordem.c -o ordem -g
+  227  ./ordem
+  228  gcc ordem.c -o ordem -g
+  229  ./ordem
+  230  gcc ordem.c -o ordem -g
+  231  ./ordem
+  232  gcc exe6.c -o exe6 -g
+  233  ./ordem
+  234  gcc exe6.c -o exe6 -g
+  235  ./exe6 
+  236  gdb exe6
+  237  ./exe6 
+  238  gcc exe7.c -o exe7 -g
+  239  ./exe7
+  240  gcc exe7.c -o exe7 -g
+  241  ./exe7
+  242  gcc exe7.c -o exe7 -g
+  243  ./exe7
+  244  gcc exe7.c -o exe7 -g
+  245  ./exe7
+  246  gdb exe7
+  247  gcc exe7.c -o exe7 -g
+  248  ./exe7
+  249  gcc exe7.c -o exe7 -g
+  250  ./exe7
+  251  gcc fibo.c -o fibo.out
+  252  clear
+  253  gcc fibo.c -o fibo.out
+  254  clear
+  255  gcc fibo.c -o fibo.out
+  256  export OMP_NUM_THREADS=4
+  257  gcc -fopenmp fibo.c -o fibo.out
+  258  ./fibo.out
+  259  clear
+  260  ./fibo
+  261  clear
+  262  gcc -fopenmp fibo.c -o fibo.out
+  263  export OMP_NUM_THREADS=4
+  264  ./fibo
+  265  gcc -o fibo fibo.c
+  266  gcc -fopenmp fibo.c -o fibo.out
+  267  export OMP_NUM_THREADS=4
+  268  ./fibo
+  269  gcc -Wall -g -o fibo fibo.c -f openmp
+  270  gcc -Wall -g -o fibo fibo.c -fopenmp
+  271  ./fibo.out
+  272  ./fibo
+  273  gcc fibo.c -fopenmp -o fibo
+  274  ./fibo
+  275  gcc -Wall -g -o fibo fibo.c -fopenmp
+  276  ./fibo
+  277  gcc -Wall -g -o fibo fibo.c -fopenmp
+  278  ./fibo
+  279  gcc -Wall -g -o fibo fibo.c -fopenmp
+  280  ./fibo
+  281  gcc -Wall -g -o fibo fibo.c -fopenmp
+  282  ./fibo
+  283  gcc -Wall -g -o fibo fibo.c -fopenmp
+  284  ./fibo
+  285  gcc -Wall -g -o fibo fibo.c -fopenmp
+  286  ./fibo
+  287  gcc -Wall -g -o fibo fibo.c -fopenmp
+  288  clear
+  289  gcc -Wall -g -o fibo fibo.c -fopenmp
+  290  ./fibo
+  291  gcc -Wall -g -o fibo fibo.c -fopenmp
+  292  ./fibo
+  293  gcc -Wall -g -o fibo fibo.c -fopenmp
+  294  ./fibo
+  295  gcc -Wall -g -o fibo fibo.c -fopenmp
+  296  ./fibo
+  297  gcc -Wall -g -o fibo fibo.c -fopenmp
+  298  ./fibo
+  299  gcc -Wall -g -o fibo fibo.c -fopenmp
+  300  ./fibo
+  301  gcc -Wall -g -o fibo fibo.c -fopenmp
+  302  ./fibo
+  303  gcc -Wall -g -o fibo fibo.c -fopenmp
+  304  ./fibo
+  305  gcc -Wall -g -o fibo fibo.c -fopenmp
+  306  ./fibo
+  307  gcc -Wall -g -o fibo fibo.c -fopenmp
+  308  ./fibo
+  309  gcc -Wall -g -o fibo fibo.c -fopenmp
+  310  ./fibo
+  311  gcc -Wall -g -o fibo fibo.c -fopenmp
+  312  ./fibo
+  313  cd "/home/aluno/AED1"
+  314  ./"teste" 
+  315  cd "/home/aluno/AED1"
+  316  ./"teste" 
+  317  gcc teste.c -g
+  318  cd "/home/aluno/AED1"
+  319  ./"teste" 
+  320  gcc teste.c -g
+  321  cd "/home/aluno/AED1"
+  322  ./"teste" 
+  323  cd "/home/aluno/AED1"
+  324  ./"teste" 
+  325  gcc teste.c -g
+  326  cd "/home/aluno/AED1"
+  327  ./"teste" 
+  328  cd "/home/aluno/AED1"
+  329  ./"teste" 
+  330  cd "/home/aluno/AED1"
+  331  ./"teste" 
+  332  cd "/home/aluno/AED1"
+  333  ./"teste" 
+  334  cd "/home/aluno/AED1"
+  335  ./"teste" 
+  336  cd "/home/aluno/AED1"
+  337  ./"teste" 
+  338  cd "/home/aluno/AED1"
+  339  ./"teste2" 
+  340  cd "/home/aluno/AED1"
+  341  ./"teste2" 
+  342  a
+  343  cd "/home/aluno/AED1"
+  344  ./"teste2" 
+  345  b
+  346  cd "/home/aluno/AED1"
+  347  ./"teste2" 
+  348  a
+  349  make
+  350  ./sim-cache
+  351  [200~/sim-cache -cache:il1 il1:64:64:1:l -cache:il2 none -cache:dl1 dl1:64:64:1:l -cache:dl2 none -
+  352  ./sim-cache -cache:il1 il1:64:64:1:l -cache:il2 none -cache:dl1 dl1:64:64:1:l -cache:dl2 none -tlb:itlb none -tlb:dtlb none
+  353  ./sim-cache -cache:il1 il1:64:64:1:l -cache:il2 none -cache:dl1 dl1:64:64:1:l -cache:dl2 none -tlb:itlb none -tlb:dtlb none vortex.ss tiny.i
+  354  make config-pisa
+  355  make
+  356  ./sim-cache -cache:il1 il1:64:64:1:l -cache:il2 none -cache:dl1 dl1:64:64:1:l -cache:dl2 none -tlb:itlb none -tlb:dtlb none vortex.ss tiny.i
+  357  $ ./sim-cache.exe -cache:il1 il1:128:32:2:r -cache:dl1 dl1:256:32:1:r -cache:il2 dl2 -cache:dl2 ul2:1024:64:4:f -tlb:itlb none -tlb:dtlb none vortex.ss tiny.in
+  358  ./sim-cache.exe -cache:il1 il1:128:32:2:r -cache:dl1 dl1:256:32:1:r -cache:il2 dl2 -cache:dl2 ul2:1024:64:4:f -tlb:itlb none -tlb:dtlb none vortex.ss tiny.in
+  359  ./sim-cache -cache:il1 il1:128:32:2:r -cache:dl1 dl1:256:32:1:r -cache:il2 dl2 -cache:dl2 ul2:1024:64:4:f -tlb:itlb none -tlb:dtlb none vortex.ss tiny.in
+  360  make config-pisa
+  361  make
+  362  ./sim-cache -cache:il1 il1:128:32:2:r -cache:dl1 dl1:256:32:1:r -cache:il2 dl2 -cache:dl2 ul2:1024:64:4:f -tlb:itlb none -tlb:dtlb none vortex.ss tiny.in
+  363  ./sim-cache -cache:il1 il1:128:8:1:r -cache:dl1 dl1:128:8:1:r -cache:dl2 none -tlb:itlb none -tlb:dtlb none vortex.ss tiny.in
+  364  ./sim-cache -cache:il1 il1:128:8:1:r -cache:il2 none -cache:dl1 dl1:128:8:1:r -cache:dl2 none -tlb:itlb none -tlb:dtlb none vortex.ss tiny.in
+  365  make
+  366  cd Área\ de\ Trabalho/
+  367  clear
+  368  gcc passa_baixa-1.cpp -o passa_baixa
+  369  clear
+  370  gcc passa_baixa-1.cpp -o passa_baixa
+  371  clear
+  372  cd "/home/aluno/DELETARDEPOIS"
+  373  ./"teste" 
+  374  cd "/home/aluno/DELETARDEPOIS"
+  375  ./"teste" 
+  376  gcc teste.c -g
+  377  cd "/home/aluno/DELETARDEPOIS"
+  378  ./"teste2" 
+  379  cd "/home/aluno/DELETARDEPOIS"
+  380  ./"teste2" 
+  381  cd "/home/aluno/DELETARDEPOIS"
+  382  ./"teste2" 
+  383  cd "/home/aluno/DELETARDEPOIS"
+  384  ./"teste2" 
+  385  cd "/home/aluno/DELETARDEPOIS"
+  386  ./"teste2" 
+  387  cd "/home/aluno/DELETARDEPOIS"
+  388  ./"teste2" 
+  389  cd "/home/aluno/DELETARDEPOIS"
+  390  ./"teste2" 
+  391  cd "/home/aluno/DELETARDEPOIS"
+  392  ./"teste2" 
+  393  cd "/home/aluno/DELETARDEPOIS"
+  394  ./"teste2" 
+  395  cd "/home/aluno/DELETARDEPOIS"
+  396  ./"teste2" 
+  397  cd "/home/aluno/DELETARDEPOIS"
+  398  ./"teste2" 
+  399  cd "/home/aluno/DELETARDEPOIS"
+  400  ./"teste2" 
+  401  cd "/home/aluno/DELETARDEPOIS"
+  402  ./"teste2" 
+  403  F
+  404  cd "/home/aluno/DELETARDEPOIS"
+  405  ./"teste2" 
+  406  a
+  407  cd "/home/aluno/DELETARDEPOIS"
+  408  ./"teste2" 
+  409  cd "/home/aluno/DELETARDEPOIS"
+  410  ./"teste2" 
+  411  a
+  412  cd "/home/aluno/DELETARDEPOIS"
+  413  ./"teste2" 
+  414  a
+  415  cd "/home/aluno/DELETARDEPOIS"
+  416  ./"teste2" 
+  417  i
+  418  cd "/home/aluno/DELETARDEPOIS"
+  419  ./"teste2" 
+  420  i
+  421  cd "/home/aluno/DELETARDEPOIS"
+  422  ./"teste2" 
+  423  valgrind
+  424  valgrind --teste2
+  425  valgrind --help
+  426  cd "/home/aluno/DELETARDEPOIS"
+  427  ./"teste2" 
+  428  valgrind --tool<teste2>
+  429  valgrind --tool teste2
+  430  valgrind --leak-check=yes teste2
+  431  cd "/home/aluno/DELETARDEPOIS"
+  432  ./"teste2" 
+  433  cd "/home/aluno/DELETARDEPOIS"
+  434  ./"teste2" 
+  435  cd "/home/aluno/DELETARDEPOIS"
+  436  ./"teste2" 
+  437  cd "/home/aluno/DELETARDEPOIS"
+  438  ./"teste2" 
+  439  cd "/home/aluno/DELETARDEPOIS"
+  440  ./"teste2" 
+  441  cd "/home/aluno/DELETARDEPOIS"
+  442  ./"teste2" 
+  443  cd "/home/aluno/DELETARDEPOIS"
+  444  ./"teste2" 
+  445  cd "/home/aluno/DELETARDEPOIS"
+  446  ./"teste2" 
+  447  cd "/home/aluno/DELETARDEPOIS"
+  448  ./"teste2" 
+  449  cd "/home/aluno/DELETARDEPOIS"
+  450  ./"teste2" 
+  451  valgrind --leak-check=full teste2
+  452  valgrind --leak-check-full <teste2>
+  453  teste2
+  454  run teste2
+  455  teste2.c
+  456  cd "/home/aluno/DELETARDEPOIS"
+  457  ./"teste" 
+  458  wget https://i0.wp.com/popasiaticojpg.com/wp-content/uploads/2022/06/Loona-Chuu.png
+  459  ./exemplos-21.c
+  460  gcc -0 exemplo-21.c -exemplo-21
+  461  gcc -o exemplos-21.c
+  462  gcc -o exemplos-21.c -exemplos-21
+  463  gcc exemplos-21.c -o exemplo-21
+  464  gcc exemplo-21.c -o exemplo-21
+  465  ls
+  466  gcc exemplo-21.c -0 exemplos-21
+  467  ./exemplos-21
+  468  gcc exemplo-21.c -o exemplos-21
+  469  ls
+  470  gcc exemplo-21.c -o exemplo-21; ./exemplo-21
+  471  ./exemplo-21
+  472  cd "/home/aluno/Área de Trabalho"
+  473  ./"exerAula" 
+  474  cd "/home/aluno/Área de Trabalho"
+  475  ./"exerAula" 
+  476  cd "/home/aluno/Área de Trabalho"
+  477  ./"exerAula" 
+  478  cd "/home/aluno/Área de Trabalho/let"
+  479  ./"exerAula" 
+  480  cd "/home/aluno/Área de Trabalho/let"
+  481  ./"exerAula" 
+  482  clear
+  483  cd "/home/aluno/Área de Trabalho/let"
+  484  ./"exerAula" 
+  485  clear
+  486  cd "/home/aluno/Área de Trabalho/let"
+  487  ./"exerAula" 
+  488  clear
+  489  cd "/home/aluno/Área de Trabalho/let"
+  490  ./"exerAula" 
+  491  cd "/home/aluno/Área de Trabalho/let"
+  492  ./"exerAula" 
+  493  clear
+  494  cd "/home/aluno/Área de Trabalho/let"
+  495  ./"exerAula" 
+  496  cd "/home/aluno/Área de Trabalho/let"
+  497  ./"exerAula" 
+  498  clear
+  499  cd "/home/aluno/Área de Trabalho/let"
+  500  ./"exerAula" 
+  501  clear
+  502  cd "/home/aluno/Área de Trabalho/let"
+  503  ./"exerAula" 
+  504  clear
+  505  cd "/home/aluno/Área de Trabalho/let"
+  506  ./"exerAula" 
+  507  cd "/home/aluno/Área de Trabalho/let"
+  508  ./"exerAula" 
+  509  clear
+  510  ./"exerAula" 
+  511  clear
+  512  cd "/home/aluno/Área de Trabalho/let"
+  513  ./"exerAula" 
+  514  clear
+  515  cd "/home/aluno/Área de Trabalho/let"
+  516  ./"exerAula" 
+  517  cd "/home/aluno/Área de Trabalho/let"
+  518  ./"exerAula" 
+  519  clear
+  520  cd "/home/aluno/Área de Trabalho/let"
+  521  ./"exerAula" 
+  522  cd "/home/aluno/Área de Trabalho/let"
+  523  ./"exerAula" 
+  524  clear
+  525  cd "/home/aluno/Área de Trabalho/let"
+  526  ./"exerAula" 
+  527  cd "/home/aluno/Área de Trabalho/let"
+  528  ./"exerAula" 
+  529  clear
+  530  cd "/home/aluno/Área de Trabalho/let"
+  531  ./"exerAula" 
+  532  cd "/home/aluno/Área de Trabalho/let"
+  533  ./"exerAula" 
+  534  cd "/home/aluno/Área de Trabalho/let"
+  535  ./"exerAula" 
+  536  ./"exerAula" undefined
+  537  gcc main.c -o main
+  538  ./main
+  539  2
+  540  gcc main.c -o main
+  541  ./main
+  542  gcc main.c -o main
+  543  ./main
+  544  gcc main.c -o main
+  545  ./main
+  546  gcc main.c -o main
+  547  ./main
+  548  gcc main.c -o main
+  549  ./main
+  550  ./main
+  551  ./main
+  552  4
+  553  gcc outro.c -o outro
+  554  ./outro
+  555  gcc outro.c -o outro
+  556  ./outro
+  557  gcc outro.c -o outro
+  558  ./outro
+  559  gcc outro.c -o outro
+  560  ./outro
+  561  gcc outro.c -o outro
+  562  ./outro
+  563  gcc outro.c -o outro
+  564  ./outro
+  565  gcc outro.c -o outro
+  566  ./outro
+  567  gcc outro.c -o outro
+  568  ./outro
+  569  gcc outro.c -o outro
+  570  ./outro
+  571  gcc outro.c -o outro
+  572  ./outro
+  573  gcc outro.c -o outro
+  574  ./outro
+  575  gcc outro.c -o outro
+  576  ./outro
+  577  gcc outro.c -o outro
+  578  ./outro
+  579  gcc trab2.c -o trab2
+  580  ./trab2
+  581  gcc trab2.c -o trab2
+  582  ./trab2
+  583  gcc trab2.c -o trab2
+  584  ./trab2
+  585  gcc trab2.c -o trab2
+  586  ./trab2
+  587  gcc trab2.c -o trab2
+  588  ./trab2
+  589  gcc trab2.c -o trab2
+  590  ./trab2
+  591  gcc trab2.c -o trab2
+  592  ./trab2
+  593  gcc trab2.c -o trab2
+  594  ./trab2
+  595  cd "/home/aluno/Área de Trabalho"
+  596  ./"teste01" 
+  597  clear
+  598  cd "/home/aluno/Área de Trabalho/aed"
+  599  ./"tentativa02" 
+  600  cd "/home/aluno/Área de Trabalho/aed"
+  601  ./"tentativa02" 
+  602  cd "/home/aluno/Área de Trabalho/aed"
+  603  ./"tentativa02" 
+  604  cd "/home/aluno/Área de Trabalho/aed"
+  605  ./"tentativa02" 
+  606  cd "/home/aluno/Área de Trabalho/aed"
+  607  ./"tentativa02" 
+  608  cd "/home/aluno/Área de Trabalho/aed"
+  609  ./"tentativa02" 
+  610  cd "/home/aluno/Área de Trabalho/aed"
+  611  ./"tentativa02" 
+  612  cd "/home/aluno/Área de Trabalho/aed"
+  613  ./"tentativa02" 
+  614  cd "/home/aluno/Área de Trabalho/aed"
+  615  ./"tentativa02" 
+  616  cd "/home/aluno/Área de Trabalho/aed"
+  617  ./"tentativa02" 
+  618  cd "/home/aluno/Área de Trabalho/aed"
+  619  ./"LeticiaZattera" 
+  620  cd "/home/aluno/Área de Trabalho/aed"
+  621  ./"LeticiaZattera" 
+  622  cd "/home/aluno/Área de Trabalho/aed"
+  623  ./"LeticiaZattera" 
+  624  cd "/home/aluno/Área de Trabalho/aed"
+  625  ./"LeticiaZattera" 
+  626  cd "/home/aluno/Área de Trabalho/aed"
+  627  ./"LeticiaZattera" 
+  628  cd "/home/aluno/Área de Trabalho/aed"
+  629  ./"LeticiaZattera" 
+  630  cd "/home/aluno/Área de Trabalho/aed"
+  631  ./"LeticiaZattera" 
+  632  cd "/home/aluno/Área de Trabalho/aed"
+  633  ./"LeticiaZattera" 
+  634  cd "/home/aluno/Área de Trabalho/arvore"
+  635  ./"arvore" 
+  636  cd "/home/aluno/Área de Trabalho/arvore"
+  637  ./"arvore" 
+  638  cd "/home/aluno/Área de Trabalho/arvore"
+  639  ./"arvore" 
+  640  cd "/home/aluno/Área de Trabalho/arvore"
+  641  ./"arvore" 
+  642  cd "/home/aluno/Área de Trabalho/arvore"
+  643  ./"arvore" 
+  644  cd "/home/aluno/Área de Trabalho/arvore"
+  645  ./"arvore" 
+  646  cd "/home/aluno/Área de Trabalho/arvore"
+  647  ./"arvore" 
+  648  --valgring
+  649  valgrind
+  650  valgrind --help
+  651  gcc arvore.c -g
+  652  cd "/home/aluno/Área de Trabalho/arvore"
+  653  ./"arvore" 
+  654  cd "/home/aluno/Área de Trabalho/arvore"
+  655  ./"arvore" 
+  656  cd "/home/aluno/Área de Trabalho/arvore"
+  657  ./"arvore" 
+  658  cd "/home/aluno/Área de Trabalho/arvore"
+  659  ./"arvore" 
+  660  cd "/home/aluno/Área de Trabalho/arvore"
+  661  ./"arvore" 
+  662  gcc arvore.c -g
+  663  cd "/home/aluno/Área de Trabalho/arvore"
+  664  ./"arvore" 
+  665  gcc arvore.c -g
+  666  gcc arvoce.c -g
+  667  gcc arvore.c -g
+  668  cd "/home/aluno/Área de Trabalho/arvore"
+  669  ./"arvore" 
+  670  cd "/home/aluno/Área de Trabalho/arvore"
+  671  ./"arvore" 
+  672  cd "/home/aluno/Área de Trabalho/arvore"
+  673  ./"arvore" 
+  674  gcc arvore.c -g
+  675  cd "/home/aluno/Área de Trabalho/arvore"
+  676  ./"arvore" 
+  677  cd Documentos/
+  678  ls
+  679  gcc exemplo48.c -o exemplo48 && /exemplo48
+  680  gcc exemplo48.c -o exemplo48 && ./exemplo48
+  681  cd "/home/aluno/Área de Trabalho/ARVORE"
+  682  ./"arvore" 
+  683  cd "/home/aluno/Área de Trabalho/ARVORE"
+  684  ./"arvore" 
+  685  cd "/home/aluno/Área de Trabalho/ARVORE"
+  686  ./"arvore" 
+  687  cd "/home/aluno/Área de Trabalho/ARVORE"
+  688  ./"arvore" 
+  689  gcc arvore.c -g
+  690  cd "/home/aluno/Área de Trabalho/ARVORE"
+  691  ./"arvore" 
+  692  cd "/home/aluno/Área de Trabalho/ARVORE"
+  693  ./"arvore" 
+  694  cd "/home/aluno/Área de Trabalho/ARVORE"
+  695  ./"arvore" 
+  696  gcc arvore.c -g
+  697  cd "/home/aluno/Área de Trabalho/ARVORE"
+  698  ./"arvore" 
+  699  gcc arvore.c -g
+  700  cd "/home/aluno/Área de Trabalho/ARVORE"
+  701  ./"arvore" 
+  702  gcc arvore.c -g
+  703  cd "/home/aluno/Área de Trabalho/ARVORE"
+  704  ./"arvore" 
+  705  cd "/home/aluno/Área de Trabalho/ARVORE"
+  706  ./"arvore" 
+  707  cd "/home/aluno/Área de Trabalho/ARVORE"
+  708  ./"arvore" 
+  709  cd "/home/aluno/Área de Trabalho/ARVORE"
+  710  ./"arvore" 
+  711  cd "/home/aluno/Área de Trabalho/ARVORE"
+  712  ./"arvore copy" 
+  713  cd "/home/aluno/Área de Trabalho/ARVORE"
+  714  ./"arvore" 
+  715  cd "/home/aluno/Área de Trabalho/ARVORE"
+  716  ./"arvore" 
+  717  gcc arvore.c -g
+  718  ls
+  719  cd Area de Trabalho
+  720  ls
+  721  gcc TEMA1.c -o TEMA1 -lpthread
+  722  ddd
+  723  ls
+  724  gcc TEMA1.c -o TEMA1 -lpthread
+  725  gcc TEMA1.c -o TEMA1 -pthread
+  726  gcc TEMA1.c -o TEMA1 -lpthread
+  727  gcc TEMA1.c -o TEMA1 -lpthread]
+  728  gcc TEMA1.c -o TEMA1 -lpthread
+  729  cd "/home/aluno/Área de Trabalho/trabalho3"
+  730  ./"arvore" 
+  731  cd "/home/aluno/Área de Trabalho/trabalho3"
+  732  ./"arvore" 
+  733  cd "/home/aluno/Área de Trabalho/trabalho3"
+  734  ./"arvore" 
+  735  cd "/home/aluno/Área de Trabalho/trabalho3"
+  736  ./"arvore" 
+  737  gcc arvore.c -g
+  738  cd "/home/aluno/Área de Trabalho/trabalho3"
+  739  ./"arvore" 
+  740  cd "/home/aluno/Área de Trabalho/trabalho3"
+  741  ./"arvore" 
+  742  cd "/home/aluno/Área de Trabalho/trabalho3"
+  743  ./"arvore" 
+  744  cd "/home/aluno/Área de Trabalho/trabalho3"
+  745  ./"arvore" 
+  746  gcc arvore.c -g
+  747  cd "/home/aluno/Área de Trabalho/trabalho3"
+  748  ./"arvore" 
+  749  cd "/home/aluno/Área de Trabalho/trabalho3"
+  750  ./"arvore" 
+  751  cd "/home/aluno/Área de Trabalho/trabalho3"
+  752  ./"arvore" 
+  753  cd "/home/aluno/Área de Trabalho/trabalho3"
+  754  ./"arvore" 
+  755  cd "/home/aluno/Área de Trabalho/trabalho3"
+  756  ./"arvore" 
+  757  cd "/home/aluno/Área de Trabalho/trabalho3"
+  758  ./"arvore" 
+  759  cd "/home/aluno/Área de Trabalho/trabalho3"
+  760  ./"arvore" 
+  761  cd "/home/aluno/Área de Trabalho/trabalho3"
+  762  ./"arvore" 
+  763  cd "/home/aluno/Área de Trabalho/trabalho3"
+  764  ./"arvore" 
+  765  cd "/home/aluno/Área de Trabalho/trabalho3"
+  766  ./"arvore" 
+  767  cd "/home/aluno/Área de Trabalho/trabalho3"
+  768  ./"arvore" 
+  769  gcc arvore.c -g
+  770  cd "/home/aluno/Área de Trabalho/trabalho3"
+  771  ./"arvore" 
+  772  cd "/home/aluno/Área de Trabalho/trabalho3"
+  773  ./"arvore" 
+  774  cd "/home/aluno/Área de Trabalho/trabalho3"
+  775  ./"arvore" 
+  776  cd "/home/aluno/Área de Trabalho/trabalho3"
+  777  ./"arvore" 
+  778  cd "/home/aluno/Área de Trabalho/trabalho3"
+  779  ./"arvore" 
+  780  cd "/home/aluno/Área de Trabalho/trabalho3"
+  781  ./"arvore" 
+  782  gcc arvore.c -g
+  783  cd "/home/aluno/Área de Trabalho/trabalho3"
+  784  ./"arvore" 
+  785  cd "/home/aluno/Área de Trabalho/trabalho3"
+  786  ./"arvore" 
+  787  gcc arvore.c -g
+  788  cd "/home/aluno/Área de Trabalho/trabalho3"
+  789  ./"arvore" 
+  790  cd "/home/aluno/Área de Trabalho/trabalho3"
+  791  ./"arvore" 
+  792  cd "/home/aluno/Área de Trabalho/trabalho3"
+  793  ./"arvore" 
+  794  cd "/home/aluno/Área de Trabalho/trabalho3"
+  795  ./"arvore" 
+  796  cd "/home/aluno/Área de Trabalho/trabalho3"
+  797  ./"arvore" 
+  798  java javac main.java
+  799  java main.java
+  800  java Main.java
+  801  java -version
+  802  git
+  803  git clone https://github.com/mathsmnz/CacheSimulator.git
+  804  javac -d ./out/ ./src
+  805  javac -sourcepath ./main -d ./out/ ./main/Main.Java
+  806  javac -sourcepath ./main ./main/Main.Java
+  807  javac -sourcepath ./main/ ./main/Main.Java
+  808  g++ -g cacheCool.cpp -lm -o cacheCool
+  809  ./cacheCool 64 8 1 R 0 bin_100.bin
+  810  g++ -g cacheCool.cpp -lm -o cacheCool
+  811  ./cacheCool 64 8 1 R 0 bin_100.bin
+  812  g++ -g cacheCool.cpp -lm -o cacheCool
+  813  ./cacheCool 64 8 1 R 0 bin_100.bin
+  814  g++ -g cacheCool.cpp -lm -o cacheCool
+  815  ./cacheCool 64 8 1 R 0 bin_100.bin
+  816  g++ -g cacheCool.cpp -lm -o cacheCool
+  817  ./cacheCool 64 8 1 R 0 bin_100.bin
+  818  clear
+  819  g++ -g cacheCool.cpp -lm -o cacheCool
+  820  ./cacheCool 64 8 1 R 0 bin_100.bin
+  821  clear
+  822  g++ -g cacheCool.cpp -lm -o cacheCool
+  823  ./cacheCool 64 8 1 R 0 bin_100.bin
+  824  ./cacheCool 1 1 256 R 0 bin_1000.bin
+  825  ./cacheCool 1 1 128 R 0 bin_1000.bin
+  826  clear
+  827  ./cacheCool 64 8 2 R 0 bin_100.bin
+  828  clear
+  829  ./cacheCool 128 4 2 R 0 bin_100.bin
+  830  ./cacheCool 128 8 1 R 0 bin_100.bin
+  831  ./cacheCool 1 4 256 R 0 bin_100.bin
+  832  ./cacheCool 1 1 4 4 R 0 bin_100.bin
+  833  clear
+  834  g++ -g cacheCool.cpp -lm -o cacheCool
+  835  ./cacheCool 256 4 1 R 0 vortex.in.sem.persons.bin
+  836  ./cacheCool 256 4 1 R 1 vortex.in.sem.persons.bin
+  837  ./cacheCool 64 4 1 R 1 bin_1000.bin
+  838  ./cacheCool 64 4 1 R 0 bin_1000.bin
+  839  g++ -g cacheCool.cpp -lm -o cacheCool
+  840  ./cacheCool 64 4 1 R 0 bin_1000.bin
+  841  ./cacheCool 128 1 1 R 0 bin_1000.bin
+  842  ./cacheCool 128 1 1 R 0 vortex.in.sem.persons.bin
+  843  ./cacheCool 128 4 1 R 0 vortex.in.sem.persons.bin
+  844  ./cacheCool 128 2 1 R 0 vortex.in.sem.persons.bin
+  845  ./cacheCool 64 2 1 R 0 vortex.in.sem.persons.bin
+  846  ./cacheCool 256 4 1 R 0 vortex.in.sem.persons.bin
+  847  g++ -g cacheCool.cpp -lm -o cacheCool
+  848  ./cacheCool 256 4 1 R 0 vortex.in.sem.persons.bin
+  849  code .
+  850  sudo make install
+  851  make install
+  852  gcc 1.c -o 324342
+  853  ./324342 
+  854  gcc 1.c -o 324342
+  855  ./324342 
+  856  gcc 2.c -o 2
+  857  ./2
+  858  gcc 2.c -o 2
+  859  ./2
+  860  gcc 2.c -o 2
+  861  ./2
+  862  gcc 2.c -o 2
+  863  ./2
+  864  gcc 2.c -o 2
+  865  ./2
+  866  gcc 2.c -o 2
+  867  ./2
+  868  gcc 3.c -o 3
+  869  ./3
+  870  gcc 3.c -o 3
+  871  ./3
+  872  gcc 3.c -o 3
+  873  ./3
+  874  gcc 3.c -o 3
+  875  ./3
+  876  gcc 3.c -o 3
+  877  ./3
+  878  code .
+  879  make compile 
+  880  make execute0
+  881  time ./main 0 0 >out
+  882  time ./main 0 1 >out
+  883  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  884  ./"sort" 
+  885  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  886  ./"sort" 
+  887  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  888  ./"sort" 
+  889  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  890  ./"sort" 
+  891  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  892  ./"sort" 
+  893  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  894  ./"sort" 
+  895  gcc sort.c -g
+  896  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  897  ./"sort" 
+  898  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  899  ./"sort" 
+  900  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  901  ./"sort" 
+  902  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  903  ./"sort" 
+  904  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  905  ./"sort" 
+  906  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  907  ./"sort" 
+  908  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  909  ./"sort" 
+  910  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  911  ./"sort" 
+  912  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  913  ./"sort" 
+  914  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  915  ./"sort" 
+  916  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  917  ./"sort" 
+  918  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  919  ./"sort" 
+  920  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  921  ./"sort" 
+  922  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  923  ./"sort" 
+  924  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  925  ./"sort" 
+  926  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  927  ./"sort" 
+  928  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  929  ./"sort" 
+  930  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  931  ./"sort" 
+  932  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  933  ./"sort" 
+  934  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  935  ./"sort" 
+  936  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  937  ./"sort" 
+  938  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  939  ./"sort" 
+  940  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  941  ./"sort" 
+  942  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  943  ./"sort" 
+  944  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  945  ./"sort" 
+  946  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  947  ./"sort" 
+  948  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  949  ./"sort" 
+  950  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  951  ./"sort" 
+  952  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  953  ./"sort" 
+  954  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  955  ./"sort" 
+  956  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  957  ./"sort" 
+  958  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  959  ./"sort" 
+  960  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  961  ./"sort" 
+  962  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  963  ./"sort" 
+  964  gcc sort.c -g
+  965  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  966  ./"sort" 
+  967  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  968  ./"sort" 
+  969  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  970  ./"sort" 
+  971  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  972  ./"sort" 
+  973  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  974  ./"sort" 
+  975  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  976  ./"sort" 
+  977  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  978  ./"sort" 
+  979  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  980  ./"sort" 
+  981  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  982  ./"sort" 
+  983  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  984  ./"sort" 
+  985  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  986  ./"sort" 
+  987  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  988  ./"sort" 
+  989  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  990  ./"sort" 
+  991  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  992  ./"sort" 
+  993  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  994  ./"sort" 
+  995  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  996  ./"sort" 
+  997  cd "/home/aluno/DELETARDEPOIS/.vscode"
+  998  ./"sort" 
+  999  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1000  ./"sort" 
+ 1001  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1002  ./"sort" 
+ 1003  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1004  ./"sort" 
+ 1005  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1006  ./"sort" 
+ 1007  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1008  ./"sort" 
+ 1009  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1010  ./"sort" 
+ 1011  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1012  ./"sort" 
+ 1013  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1014  ./"sort" 
+ 1015  cd "/home/aluno/DELETARDEPOIS/.vscode"
+ 1016  ./"sort" 
+ 1017  ../
+ 1018  cd ../
+ 1019  cd
+ 1020  ls
+ 1021  cd Downloads/
+ 1022  gcc teste02.c -o teste02
+ 1023  gcc teste02.c -o teste02 -lm
+ 1024  3
+ 1025  ./teste02 
+ 1026  ls
+ 1027  git branch
+ 1028  git add .
+ 1029  git commit -m "initial project"
+ 1030  git add .
+ 1031  git commit -m "initial project"
+ 1032  git push -u origin project-structure
+ 1033  history
+ 1034  ls
+ 1035  cd winder/
+ 1036  ls
+ 1037  cd esbioml-2022-aula-git/
+ 1038  ls
+ 1039  which mkdir
+ 1040  which python
+ 1041  echo $PATH
+ 1042  pip install cookiecutter
+ 1043  install PyYAML
+ 1044  sudo apt-get update -y
+ 1045* 
+ 1046  pip install --ignore-installed PyYAML cookiecutter
+ 1047  cookiecutter 
+ 1048  cookiecutter https://github.com/omixlab/bioinformatics-cookiecutter-template
+ 1049  cd acppred/
+ 1050  ls
+ 1051  git init
+ 1052  code .
+ 1053  cd ..
+ 1054  ls
+ 1055  cd acppred/
+ 1056  ls
+ 1057  git init
+ 1058  git config --local user.name winderfelipez
+ 1059  git config --local user.email winder.felipezz@gmail.com
+ 1060  ls
+ 1061  conda env create --file environment.yml
+ 1062  conda activate acppred
+ 1063  which python
+ 1064  conda env update --file environment.yml
+ 1065  history
+ 1066  history > comando_cookiecutter.txt
+ 1067  git add .
+ 1068  git commit -m "inicial commit "
+ 1069  git remote add origin git@github.com:winderfelipez/acppred.git
+ 1070  branch -M main
+ 1071  git branch -M main
+ 1072  git push -u origin main
+ 1073  history > comando2.txt
