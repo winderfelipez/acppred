@@ -95,14 +95,4 @@ class Model:
 
 # Sao objetos de analise que vao considerando para o analise 
 
-model = Model(
-    estimator=RandomForestClassifier(),
-    positive_peptides='data/raw/positive.txt',
-    negative_peptides='data/raw/negative.txt'
-    )
-model.train()
-model.save('data/models/model.pickle')
 
-model_loaded = Model.load('data/models/model.pickle')
-print(model_loaded.predict('WWGGGLLL'))
-    
